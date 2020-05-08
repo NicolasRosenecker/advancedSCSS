@@ -1,0 +1,13 @@
+/* molengo-regular - latin */
+@font-face {
+  font-family: 'Molengo';
+  font-style: normal;
+  font-weight: 400;
+  src: url('http://localhost:8080/AdvancedFrontendTechniques/vorlage-ue2/public/fonts/'); /* IE9 Compat Modes */
+  src: local('Molengo'), local('Molengo-Regular'),
+  url('../../public/fonts/molengo-v10-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('../../public/fonts/molengo-v10-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+  url('../../public/fonts/molengo-v10-latin-regular.woff') format('woff'), /* Modern Browsers */
+  url('../../public/fonts/molengo-v10-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+  url('../../public/fonts/molengo-v10-latin-regular.svg#Molengo') format('svg'); /* Legacy iOS */
+}
